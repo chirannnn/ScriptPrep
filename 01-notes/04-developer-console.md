@@ -1,8 +1,3 @@
-Absolutely, Chiran — here’s a clean, interview-ready `.md` note summarizing the **Developer Console** section, formatted for clarity and quick recall:
-
----
-
-````markdown
 # 🧠 Developer Console — Interview Revision Notes
 
 ## 📌 Purpose
@@ -43,9 +38,6 @@ Developer tools (DevTools) help developers:
 Uncaught ReferenceError: lalala is not defined
     at bug.html:12
 ```
-````
-
----
 
 ## 💬 Running Commands
 
