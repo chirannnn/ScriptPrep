@@ -1,8 +1,3 @@
-Absolutely, Chiran — here’s a clean, interview-focused `.md` note covering the **Hello, World!** section, with practical insights and structure tailored for revision and real-world questions:
-
----
-
-````markdown
 # 🧠 JavaScript Basics — Hello, World!
 
 ## 📌 Purpose
@@ -42,7 +37,6 @@ This is the foundation for client-side scripting and DOM interaction.
   </body>
 </html>
 ```
-````
 
 > 🧠 Interview Tip: Be ready to explain how script execution order affects DOM rendering.
 
@@ -137,10 +131,3 @@ alert("I'm JavaScript!");
 - Why shouldn’t you mix `src` and inline code in one `<script>` tag?
 - How does browser caching affect external scripts?
 - What’s the role of the `type="module"` attribute?
-
-```
-
----
-
-Let me know if you want this bundled into a full “JavaScript Interview Prep” archive or split into topic-based flashcards. I can also help you build dry-run logic or quiz prompts from this.
-```
